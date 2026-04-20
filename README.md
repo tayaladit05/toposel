@@ -74,4 +74,3 @@ So content can be changed without touching layout code.
 
 This project is built as assignment work.
 I focused on practical implementation and readability.
-If needed, I can further improve animation, accessibility, and deeper WooCommerce page support in next version.
